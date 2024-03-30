@@ -25,7 +25,7 @@ This game was developed during [Jonas Schmedtmann's JavaScript Course](https://w
 - JavaScript: Implements game logic and interactivity.
 
 ### Usage
-1. [Click Here To Start Play]().
+1. [Click Here To Start Play](https://dice-game-abuoelezz.vercel.app/).
 2. Enter player names if prompted.
 3. Click the \"Roll Dice\" button to roll the dice.
 4. Click the \"Hold\" button to keep your current score.
