@@ -20,9 +20,9 @@ This game was developed during [Jonas Schmedtmann's JavaScript Course](https://w
 - **.prettierrc**: Code formatting configuration file.
 
 ### Technologies Used
-- HTML: Creates webpage structure.
-- CSS: Styles game elements.
-- JavaScript: Implements game logic and interactivity.
+- **HTML**: Creates webpage structure.
+- **CSS**: Styles game elements.
+- **JavaScript**: Implements game logic and interactivity.
 
 ### Usage
 1. [Click Here To Start Play](https://dice-game-abuoelezz.vercel.app/).
