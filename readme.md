@@ -4,7 +4,7 @@ Welcome to the "Dice" game! This is a simple web-based dice game where two playe
 
 This game was developed during [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/share/101Wfe3@WNfGGz11Oi9aTz8k04tFZTOeWvzLQXZsSOnuHZXk7n3xF_sBJQTf5GT05dyygfpFow==/).
 
-## Features
+### Features
 
 - **Two Players**: Play against a friend or yourself.
 - **Roll Dice**: Click the \"Roll Dice\" button to roll the dice and accumulate points.
