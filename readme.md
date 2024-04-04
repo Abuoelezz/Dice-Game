@@ -1,4 +1,4 @@
-# Dice_Game
+# Dice-Game
 
 Welcome to the "Dice" game! This is a simple web-based dice game where two players take turns rolling a dice and accumulating points until one player reaches a certain score threshold. 
 
@@ -13,13 +13,13 @@ This game was developed during [Jonas Schmedtmann's JavaScript Course](https://w
 - **New Game**: Start a new game at any time by clicking the \"New Game\" button.
 
 
-### Project Structure:
-- index.html: Contains game HTML structure.
-- style.css: Defines HTML element styles.
-- script.js: Implements game logic.
-- .prettierrc: Code formatting configuration file.
+### Project Structure
+- **index.html**: Contains game HTML structure.
+- **style.css**: Defines HTML element styles.
+- **script.js**: Implements game logic.
+- **.prettierrc**: Code formatting configuration file.
 
-### Technologies Used:
+### Technologies Used
 - HTML: Creates webpage structure.
 - CSS: Styles game elements.
 - JavaScript: Implements game logic and interactivity.
