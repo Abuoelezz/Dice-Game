@@ -1,4 +1,4 @@
-# Dice-Game
+# Dice Game
 
 Welcome to the "Dice" game! This is a simple web-based dice game where two players take turns rolling a dice and accumulating points until one player reaches a certain score threshold. 
 
